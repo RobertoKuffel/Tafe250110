@@ -16,15 +16,14 @@ namespace Calculator
 		public MainPage()
 		{
 			InitializeComponent();
-
 			mainPage = this;
-
 			Window.Current.CoreWindow.CharacterReceived += keyPress;
 		}
 
 		// add comment here
 		private void pageLoaded(object sender, RoutedEventArgs e)
 		{
+
 			// window minimum size
 			ApplicationView.GetForCurrentView().SetPreferredMinSize(new Size(256, 384));
 
@@ -36,6 +35,7 @@ namespace Calculator
 			titleBar.ButtonBackgroundColor = Windows.UI.Colors.Transparent;
 			titleBar.ButtonInactiveBackgroundColor = Windows.UI.Colors.Transparent;
 			titleBar.ButtonInactiveForegroundColor = Windows.UI.Colors.White;
+
 		}
 
 		// add comment here
