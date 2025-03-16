@@ -32,11 +32,11 @@
                        FontSize="28" FontWeight="Bold"
                        VerticalAlignment="Center" HorizontalAlignment="Center" Margin="100,0,0,0"/>
 
-            <!-- Logo Image --><!--
+            <!-- Logo Image -->
             <Image Grid.Column="1"
                    Source="Assets/abacus.png"
                    Width="100" Height="100"
-                   Margin="0,0,20,0"/>-->
+                   Margin="0,0,20,0"/>
         </Grid>
 
         <!-- Content area with buttons -->
