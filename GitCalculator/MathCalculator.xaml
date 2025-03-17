@@ -37,7 +37,7 @@
 				</FlyoutBase.AttachedFlyout>
 			</TextBlock>
 
-		<control:OperatorButtonControl Grid.Row="2" Grid.Column="3" Value="/" />
+		<!--<control:OperatorButtonControl Grid.Row="2" Grid.Column="3" Value="/" />
 		<control:OperatorButtonControl Grid.Row="3" Grid.Column="3" Value="*" />
 		<control:OperatorButtonControl Grid.Row="4" Grid.Column="3" Value="-" />
 		<control:OperatorButtonControl Grid.Row="5" Grid.Column="3" Value="+" />
@@ -52,7 +52,7 @@
 		<control:NumberButtonControl Grid.Row="4" Grid.Column="1" Value="2" x:Name="button2" />
 		<control:NumberButtonControl Grid.Row="4" Grid.Column="2" Value="3" x:Name="button3" />
 
-		<control:NumberButtonControl Grid.Row="5" Grid.Column="1" Value="0" />
+		<control:NumberButtonControl Grid.Row="5" Grid.Column="1" Value="0" />-->
 
 		<Button Style="{StaticResource ButtonBlueStyle}" Grid.Row="5" Grid.Column="2" Click="handleEqualButtonClick">
 			=

@@ -60,7 +60,7 @@ namespace Calculator
 				if (args.KeyCode >= 48 && args.KeyCode <= 57)
 					number = args.KeyCode - 48;             // pressed key 0 ~ 9
 				else
-					number = args.KeyCode - 96;				// pressed  0 ~ 9 on number keypad
+					number = args.KeyCode - 96;             // pressed  0 ~ 9 on number keypad
 
 				Utils.Utils.handleClick(number.ToString());
 			}

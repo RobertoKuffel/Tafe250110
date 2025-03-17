@@ -18,7 +18,7 @@ namespace Calculator.Controls
 		// default function
 		public OperatorButtonControl()
 		{
-			InitializeComponent();
+			this.InitializeComponent();
 		}
 
 		// handle functions
