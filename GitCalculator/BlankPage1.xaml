@@ -10,7 +10,7 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
 	<Grid>
-
+		
 		<Grid.RowDefinitions>
 			<RowDefinition Height="*"/>
 			<RowDefinition Height="Auto"/>
@@ -50,7 +50,7 @@
 					<ColumnDefinition Width="345*"/>
 					<ColumnDefinition Width="406*"/>
 				</Grid.ColumnDefinitions>
-
+				<Frame x:Name="MainFrame" />
 				<TextBox x:Name="AmountTextBox" Grid.Column="0" Margin="0,0,203,0" Text="1000" FontSize="20"/>
 				<ComboBox x:Name="FromCurrencyComboBox" Grid.Column="1" 
                         Height="41" 

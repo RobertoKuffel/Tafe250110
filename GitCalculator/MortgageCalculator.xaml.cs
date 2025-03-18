@@ -50,7 +50,7 @@ namespace Calculator
 
 		private void BackButton_Click(object sender, RoutedEventArgs e)
 		{
-
+			Application.Current.Exit();
         }
     }
 }

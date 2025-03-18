@@ -3,6 +3,8 @@ using Windows.UI.Xaml.Controls;
 using Windows.ApplicationModel.Core;
 using Windows.Foundation;
 using Windows.UI.ViewManagement;
+using System.Windows;
+using System;
 
 namespace Calculator
 {
@@ -19,21 +21,22 @@ namespace Calculator
 
 		private void MathCalculatorButton_Click(object sender, RoutedEventArgs e)
 		{
-			
+			MainFrame.Navigate(typeof(MainPage));
 		}
 
 		private void MortgageCalculatorButton_Click(object sender, RoutedEventArgs e)
 		{
-		
+			MainFrame.Navigate(typeof(MortgageCalculator));
 		}
 
 		private void CurrencyConverterButton_Click(object sender, RoutedEventArgs e)
 		{
-			
+			MainFrame.Navigate(typeof(BlankPage1));
 		}
 
 		private void ExitButton_Click(object sender, RoutedEventArgs e)
 		{
+			Application.Current.Exit();
 		}
 	}
 }

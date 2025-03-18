@@ -19,7 +19,7 @@
 			<RowDefinition Height="Auto"/>
 			<RowDefinition Height="*"/>
 		</Grid.RowDefinitions>
-
+		<Frame x:Name="MainFrame" />
 		<!-- Title -->
 		<TextBlock Text="Mortgage Calculator" 
                    FontSize="24" 

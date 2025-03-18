@@ -25,7 +25,7 @@
                 <ColumnDefinition Width="Auto"/>
                 <!-- Logo column -->
             </Grid.ColumnDefinitions>
-
+				
             <!-- Calculator Title -->
             <TextBlock Grid.Column="0"
                        Text="Universal Calculator"
@@ -38,11 +38,11 @@
                    Width="100" Height="100"
                    Margin="0,0,20,0"/>
         </Grid>
-
-        <!-- Content area with buttons -->
+		<!-- Content area with buttons -->
         <StackPanel Grid.Row="1"
                     Orientation="Vertical"
                     Margin="20">
+			<Frame x:Name="MainFrame" />
 
             <!-- Calculator Buttons -->
             <Button Content="Math Calculator" 
@@ -52,7 +52,7 @@
                     Background="#FFD6C3A6"
                     BorderBrush="#FFD6C3A6"
                     Foreground="Black"
-                    x:Name="btnMathCalculator" HorizontalAlignment="Center"/>
+                    x:Name="btnMathCalculator" HorizontalAlignment="Center" Click="MathCalculatorButton_Click"/>
 
             <Button Content="Mortgage Calculator" 
                     Width="400" Height="50" 
@@ -61,7 +61,7 @@
                     Background="#FFD6C3A6"
                     BorderBrush="#FFD6C3A6"
                     Foreground="Black"
-                    x:Name="btnMortgageCalculator" HorizontalAlignment="Center"/>
+                    x:Name="btnMortgageCalculator" HorizontalAlignment="Center" Click="MortgageCalculatorButton_Click"/>
 
             <Button Content="Currency Converter" 
                     Width="400" Height="50" 
@@ -70,7 +70,7 @@
                     Background="#FFD6C3A6"
                     BorderBrush="#FFD6C3A6"
                     Foreground="Black"
-                    x:Name="btnCurrencyConverter" HorizontalAlignment="Center"/>
+                    x:Name="btnCurrencyConverter" HorizontalAlignment="Center" Click="CurrencyConverterButton_Click"/>
 
             <Button Content="Exit" 
                     Width="400" Height="50" 
@@ -78,7 +78,7 @@
                     Background="#FFD6C3A6"
                     BorderBrush="#FFD6C3A6"
                     Foreground="Black"
-                    x:Name="btnExit" HorizontalAlignment="Center"/>
+                    x:Name="btnExit" HorizontalAlignment="Center" Click="ExitButton_Click"/>
         </StackPanel>
     </Grid>
 </Page>
