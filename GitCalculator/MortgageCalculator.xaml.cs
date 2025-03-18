@@ -47,5 +47,10 @@ namespace Calculator
 		{
 			Application.Current.Equals(new MainMenu());
 		}
-	}
+
+		private void BackButton_Click(object sender, RoutedEventArgs e)
+		{
+
+        }
+    }
 }
