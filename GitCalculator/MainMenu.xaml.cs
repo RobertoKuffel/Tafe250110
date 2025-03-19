@@ -5,6 +5,8 @@ using Windows.Foundation;
 using Windows.UI.ViewManagement;
 using System.Windows;
 using System;
+using Windows.UI.Popups;
+using System.Diagnostics;
 
 namespace Calculator
 {
@@ -38,5 +40,11 @@ namespace Calculator
 		{
 			Application.Current.Exit();
 		}
-	}
+
+		private void TripCalculatorButton_Click(object sender, RoutedEventArgs e)
+		{
+			txtTripError.Text = "Trip calculator C# code will be developed later";
+			txtTripError.Visibility = Visibility.Visible;
+		}
+    }
 }

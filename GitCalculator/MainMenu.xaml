@@ -39,46 +39,66 @@
                    Margin="0,0,20,0"/>
         </Grid>
 		<!-- Content area with buttons -->
-        <StackPanel Grid.Row="1"
-                    Orientation="Vertical"
-                    Margin="20">
+		<StackPanel Grid.Row="1"
+            Orientation="Vertical"
+            Margin="20">
 			<Frame x:Name="MainFrame" />
 
-            <!-- Calculator Buttons -->
-            <Button Content="Math Calculator" 
-                    Width="400" Height="50" 
-                    Margin="0,0,0,10"
-                    FontSize="14"
-                    Background="#FFD6C3A6"
-                    BorderBrush="#FFD6C3A6"
-                    Foreground="Black"
-                    x:Name="btnMathCalculator" HorizontalAlignment="Center" Click="MathCalculatorButton_Click"/>
+			<!-- Calculator Buttons -->
+			<Button Content="Math Calculator" 
+            Width="400" Height="50" 
+            Margin="0,0,0,10"
+            FontSize="14"
+            Background="#FFD6C3A6"
+            BorderBrush="#FFD6C3A6"
+            Foreground="Black"
+            x:Name="btnMathCalculator" HorizontalAlignment="Center" Click="MathCalculatorButton_Click"/>
 
-            <Button Content="Mortgage Calculator" 
-                    Width="400" Height="50" 
-                    Margin="0,0,0,10"
-                    FontSize="14"
-                    Background="#FFD6C3A6"
-                    BorderBrush="#FFD6C3A6"
-                    Foreground="Black"
-                    x:Name="btnMortgageCalculator" HorizontalAlignment="Center" Click="MortgageCalculatorButton_Click"/>
+			<Button Content="Mortgage Calculator" 
+            Width="400" Height="50" 
+            Margin="0,0,0,10"
+            FontSize="14"
+            Background="#FFD6C3A6"
+            BorderBrush="#FFD6C3A6"
+            Foreground="Black"
+            x:Name="btnMortgageCalculator" HorizontalAlignment="Center" Click="MortgageCalculatorButton_Click"/>
 
-            <Button Content="Currency Converter" 
-                    Width="400" Height="50" 
-                    Margin="0,0,0,10"
-                    FontSize="14"
-                    Background="#FFD6C3A6"
-                    BorderBrush="#FFD6C3A6"
-                    Foreground="Black"
-                    x:Name="btnCurrencyConverter" HorizontalAlignment="Center" Click="CurrencyConverterButton_Click"/>
+			<Button Content="Currency Converter" 
+            Width="400" Height="50" 
+            Margin="0,0,0,10"
+            FontSize="14"
+            Background="#FFD6C3A6"
+            BorderBrush="#FFD6C3A6"
+            Foreground="Black"
+            x:Name="btnCurrencyConverter" HorizontalAlignment="Center" Click="CurrencyConverterButton_Click"/>
 
-            <Button Content="Exit" 
-                    Width="400" Height="50" 
-                    FontSize="14"
-                    Background="#FFD6C3A6"
-                    BorderBrush="#FFD6C3A6"
-                    Foreground="Black"
-                    x:Name="btnExit" HorizontalAlignment="Center" Click="ExitButton_Click"/>
-        </StackPanel>
-    </Grid>
+			<Button Content="Exit" 
+            Width="400" Height="50" 
+            FontSize="14"
+            Background="#FFD6C3A6"
+            BorderBrush="#FFD6C3A6"
+            Foreground="Black"
+            x:Name="btnExit" HorizontalAlignment="Center" Click="ExitButton_Click"/>
+
+			<!-- NEW: Trip Calculator Button -->
+			<Button Content="Trip Calculator" 
+            Width="400" Height="50" 
+            Margin="0,10,0,0"
+            FontSize="14"
+            Background="#FFD6C3A6"
+            BorderBrush="#FFD6C3A6"
+            Foreground="Black"
+            x:Name="btnTripCalculator" HorizontalAlignment="Center" Click="TripCalculatorButton_Click"/>
+
+			<TextBlock x:Name="txtTripError"
+           Text=""
+           FontSize="14"
+           Foreground="Red"
+           Margin="0,10,0,0"
+           HorizontalAlignment="Center"
+           TextWrapping="Wrap"
+           Visibility="Collapsed"/>
+		</StackPanel>
+
+	</Grid>
 </Page>
