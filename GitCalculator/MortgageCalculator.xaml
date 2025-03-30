@@ -1,0 +1,91 @@
+<Page x:Class="Calculator.MortgageCalculator"
+	 xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	 xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	 xmlns:local="using:Calculator"
+	 xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	 xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	 mc:Ignorable="d"
+	 Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+	<Grid Margin="20">
+		<Grid.RowDefinitions>
+			<RowDefinition Height="Auto"/>
+			<RowDefinition Height="Auto"/>
+			<RowDefinition Height="Auto"/>
+			<RowDefinition Height="Auto"/>
+			<RowDefinition Height="Auto"/>
+			<RowDefinition Height="Auto"/>
+			<RowDefinition Height="Auto"/>
+			<RowDefinition Height="Auto"/>
+			<RowDefinition Height="*"/>
+		</Grid.RowDefinitions>
+
+		<!-- Title -->
+		<TextBlock Text="Mortgage Calculator" 
+                   FontSize="24" 
+                   FontWeight="Bold"
+                   HorizontalAlignment="Center"
+                   Margin="0,0,0,20"/>
+
+		<!-- Principal -->
+		<StackPanel Grid.Row="1" Orientation="Horizontal" Margin="0,0,0,10" HorizontalAlignment="Center">
+			<TextBlock Text="Principal Borrow ($): " 
+                       Width="120" 
+                       VerticalAlignment="Center"/>
+			<TextBox Name="txtPrincipal" Width="150"/>
+		</StackPanel>
+
+		<!-- Years -->
+		<StackPanel Grid.Row="2" Orientation="Horizontal" Margin="0,0,0,10" HorizontalAlignment="Center">
+			<TextBlock Text="Years: " 
+                       Width="120" 
+                       VerticalAlignment="Center"/>
+			<TextBox Name="txtYears" Width="150"/>
+		</StackPanel>
+
+		<!-- Months -->
+		<StackPanel Grid.Row="3" Orientation="Horizontal" Margin="0,0,0,10" HorizontalAlignment="Center">
+			<TextBlock Text="and Months: " 
+                       Width="120" 
+                       VerticalAlignment="Center"/>
+			<TextBox Name="txtMonths" Width="150"/>
+		</StackPanel>
+
+		<!-- Yearly Interest Rate -->
+		<StackPanel Grid.Row="4" Orientation="Horizontal" Margin="0,0,0,10" HorizontalAlignment="Center">
+			<TextBlock Text="Yearly Interest Rate (%): " 
+                       Width="120" 
+                       VerticalAlignment="Center"/>
+			<TextBox Name="txtYearlyInterest" Width="150"/>
+		</StackPanel>
+
+		<!-- Monthly Interest Rate -->
+		<StackPanel Grid.Row="5" Orientation="Horizontal" Margin="0,0,0,10" HorizontalAlignment="Center">
+			<TextBlock Text="Monthly Interest Rate (%): " 
+                       Width="120" 
+                       VerticalAlignment="Center"/>
+			<TextBox Name="txtMonthlyInterest" Width="150" IsReadOnly="True"/>
+		</StackPanel>
+
+		<!-- Monthly Repayment -->
+		<StackPanel Grid.Row="6" Orientation="Horizontal" Margin="0,0,0,10" HorizontalAlignment="Center">
+			<TextBlock Text="Monthly Repayment ($): " 
+                       Width="120" 
+                       VerticalAlignment="Center"/>
+			<TextBox Name="txtMonthlyRepayment" Width="150" IsReadOnly="True"/>
+		</StackPanel>
+
+		<!-- Buttons -->
+		<StackPanel Grid.Row="7" Orientation="Horizontal" HorizontalAlignment="Center">
+			<Button Content="Calculate" 
+                    Width="100" 
+                    Height="40" 
+                    Margin="0,0,10,0"
+                    Click="CalculateButton_Click"/>
+			<Button Content="Back" 
+                    Width="100" 
+                    Height="40" 
+                    Click="BackButton_Click"/>
+		</StackPanel>
+	</Grid>
+</Page>

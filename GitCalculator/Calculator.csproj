@@ -119,8 +119,8 @@
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
-    <Compile Include="BlankPage1.xaml.cs">
-      <DependentUpon>BlankPage1.xaml</DependentUpon>
+    <Compile Include="MortgageCalculator.xaml.cs">
+      <DependentUpon>MortgageCalculator.xaml</DependentUpon>
     </Compile>
     <Compile Include="MainMenu.xaml.cs">
       <DependentUpon>MainMenu.xaml</DependentUpon>
@@ -129,6 +129,7 @@
     <None Include=".editorconfig" />
     <Compile Include="Controls\NumberButtonControl.xaml.cs">
       <DependentUpon>NumberButtonControl.xaml</DependentUpon>
+      <Generator>MSBuild:Compile</Generator>
     </Compile>
     <Compile Include="Controls\OperatorButtonControl.xaml.cs">
       <DependentUpon>OperatorButtonControl.xaml</DependentUpon>
@@ -159,7 +160,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Page Include="BlankPage1.xaml">
+    <Page Include="MortgageCalculator.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
