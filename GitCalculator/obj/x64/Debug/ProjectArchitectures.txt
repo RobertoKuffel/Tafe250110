@@ -1,0 +1,1 @@
+C:\Tafe250110\Tafe250110\GitCalculator\Calculator.csproj;x64
