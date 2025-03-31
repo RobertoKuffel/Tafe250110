@@ -1,12 +1,98 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Tafe250110\\Tafe250110\\GitCalculator\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36151245-39E4-446A-94B3-3C3F4E00C762}|Calculator.csproj|c:\\tafe250110\\tafe250110\\gitcalculator\\mainmenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{36151245-39E4-446A-94B3-3C3F4E00C762}|Calculator.csproj|solutionrelative:mainmenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36151245-39E4-446A-94B3-3C3F4E00C762}|Calculator.csproj|C:\\Tafe250110\\Tafe250110\\GitCalculator\\mathcalculator.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{36151245-39E4-446A-94B3-3C3F4E00C762}|Calculator.csproj|solutionrelative:mathcalculator.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36151245-39E4-446A-94B3-3C3F4E00C762}|Calculator.csproj|C:\\Tafe250110\\Tafe250110\\GitCalculator\\mainmenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36151245-39E4-446A-94B3-3C3F4E00C762}|Calculator.csproj|solutionrelative:mainmenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Tafe250110\\Tafe250110\\GitCalculator\\MortgageCalculator.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MortgageCalculator.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Tafe250110\\Tafe250110\\GitCalculator\\MortgageCalculator.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MortgageCalculator.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MortgageCalculator.xaml.cs",
+              "DocumentMoniker": "C:\\Tafe250110\\Tafe250110\\GitCalculator\\MortgageCalculator.xaml.cs",
+              "RelativeDocumentMoniker": "MortgageCalculator.xaml.cs",
+              "ToolTip": "C:\\Tafe250110\\Tafe250110\\GitCalculator\\MortgageCalculator.xaml.cs",
+              "RelativeToolTip": "MortgageCalculator.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T03:58:56.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MathCalculator.xaml",
+              "DocumentMoniker": "C:\\Tafe250110\\Tafe250110\\GitCalculator\\MathCalculator.xaml",
+              "RelativeDocumentMoniker": "MathCalculator.xaml",
+              "ToolTip": "C:\\Tafe250110\\Tafe250110\\GitCalculator\\MathCalculator.xaml",
+              "RelativeToolTip": "MathCalculator.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-18T03:57:59.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MortgageCalculator.xaml",
+              "DocumentMoniker": "C:\\Tafe250110\\Tafe250110\\GitCalculator\\MortgageCalculator.xaml",
+              "RelativeDocumentMoniker": "MortgageCalculator.xaml",
+              "ToolTip": "C:\\Tafe250110\\Tafe250110\\GitCalculator\\MortgageCalculator.xaml",
+              "RelativeToolTip": "MortgageCalculator.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-18T03:57:26.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainMenu.xaml.cs",
+              "DocumentMoniker": "C:\\Tafe250110\\Tafe250110\\GitCalculator\\MainMenu.xaml.cs",
+              "RelativeDocumentMoniker": "MainMenu.xaml.cs",
+              "ToolTip": "C:\\Tafe250110\\Tafe250110\\GitCalculator\\MainMenu.xaml.cs",
+              "RelativeToolTip": "MainMenu.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwCgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T03:08:26.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainMenu.xaml",
+              "DocumentMoniker": "C:\\Tafe250110\\Tafe250110\\GitCalculator\\MainMenu.xaml",
+              "RelativeDocumentMoniker": "MainMenu.xaml",
+              "ToolTip": "C:\\Tafe250110\\Tafe250110\\GitCalculator\\MainMenu.xaml",
+              "RelativeToolTip": "MainMenu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-17T00:48:08.447Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
