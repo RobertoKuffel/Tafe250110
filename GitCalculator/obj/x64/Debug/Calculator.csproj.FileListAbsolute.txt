@@ -1,0 +1,335 @@
+C:\Temp\GitCalculator\bin\x64\Debug\App.xbf
+C:\Temp\GitCalculator\bin\x64\Debug\Controls\NumberButtonControl.xbf
+C:\Temp\GitCalculator\bin\x64\Debug\Resources\NumberButtonControl.Resources.xbf
+C:\Temp\GitCalculator\bin\x64\Debug\Controls\OperatorButtonControl.xbf
+C:\Temp\GitCalculator\bin\x64\Debug\MainPage.xbf
+C:\Temp\GitCalculator\bin\x64\Debug\Resources\OperatorButtonControl.Resources.xbf
+C:\Temp\GitCalculator\bin\x64\Debug\Resources\Resources.xbf
+C:\Temp\GitCalculator\bin\x64\Debug\Calculator.xr.xml
+C:\Temp\GitCalculator\bin\x64\Debug\Calculator.exe
+C:\Temp\GitCalculator\bin\x64\Debug\Calculator.pdb
+C:\Temp\GitCalculator\bin\x64\Debug\resources.pri
+C:\Temp\GitCalculator\bin\x64\Debug\AppxManifest.xml
+C:\Temp\GitCalculator\bin\x64\Debug\Core\AppxManifest.xml
+C:\Temp\GitCalculator\bin\x64\Debug\Core\Calculator.exe
+C:\Temp\GitCalculator\bin\x64\Debug\Calculator.build.appxrecipe
+C:\Temp\GitCalculator\bin\x64\Debug\System.Runtime.dll
+C:\Temp\GitCalculator\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Temp\GitCalculator\obj\x64\Debug\Calculator.csprojAssemblyReference.cache
+C:\Temp\GitCalculator\obj\x64\Debug\App.g.i.cs
+C:\Temp\GitCalculator\obj\x64\Debug\App.g.cs
+C:\Temp\GitCalculator\obj\x64\Debug\Controls\NumberButtonControl.g.i.cs
+C:\Temp\GitCalculator\obj\x64\Debug\Controls\NumberButtonControl.g.cs
+C:\Temp\GitCalculator\obj\x64\Debug\Controls\OperatorButtonControl.g.i.cs
+C:\Temp\GitCalculator\obj\x64\Debug\Controls\OperatorButtonControl.g.cs
+C:\Temp\GitCalculator\obj\x64\Debug\MainPage.g.i.cs
+C:\Temp\GitCalculator\obj\x64\Debug\MainPage.g.cs
+C:\Temp\GitCalculator\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Temp\GitCalculator\obj\x64\Debug\App.xaml
+C:\Temp\GitCalculator\obj\x64\Debug\Controls\NumberButtonControl.xaml
+C:\Temp\GitCalculator\obj\x64\Debug\Resources\NumberButtonControl.Resources.xaml
+C:\Temp\GitCalculator\obj\x64\Debug\Controls\OperatorButtonControl.xaml
+C:\Temp\GitCalculator\obj\x64\Debug\MainPage.xaml
+C:\Temp\GitCalculator\obj\x64\Debug\Resources\OperatorButtonControl.Resources.xaml
+C:\Temp\GitCalculator\obj\x64\Debug\Resources\Resources.xaml
+C:\Temp\GitCalculator\obj\x64\Debug\App.xbf
+C:\Temp\GitCalculator\obj\x64\Debug\Controls\NumberButtonControl.xbf
+C:\Temp\GitCalculator\obj\x64\Debug\Resources\NumberButtonControl.Resources.xbf
+C:\Temp\GitCalculator\obj\x64\Debug\Controls\OperatorButtonControl.xbf
+C:\Temp\GitCalculator\obj\x64\Debug\MainPage.xbf
+C:\Temp\GitCalculator\obj\x64\Debug\Resources\OperatorButtonControl.Resources.xbf
+C:\Temp\GitCalculator\obj\x64\Debug\Resources\Resources.xbf
+C:\Temp\GitCalculator\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Temp\GitCalculator\obj\x64\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Temp\GitCalculator\obj\x64\Debug\Calculator.csproj.CopyComplete
+C:\Temp\GitCalculator\obj\x64\Debug\Calculator.exe
+C:\Temp\GitCalculator\obj\x64\Debug\Calculator.pdb
+C:\Temp\GitCalculator\obj\x64\Debug\ResourceHandlingTask.state
+C:\Temp\GitCalculator\obj\x64\Debug\priconfig.xml
+C:\Temp\GitCalculator\obj\x64\Debug\priconfig.xml.intermediate
+C:\Temp\GitCalculator\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Temp\GitCalculator\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Temp\GitCalculator\obj\x64\Debug\filtered.layout.resfiles
+C:\Temp\GitCalculator\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Temp\GitCalculator\obj\x64\Debug\excluded.layout.resfiles
+C:\Temp\GitCalculator\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Temp\GitCalculator\obj\x64\Debug\resources.resfiles
+C:\Temp\GitCalculator\obj\x64\Debug\resources.resfiles.intermediate
+C:\Temp\GitCalculator\obj\x64\Debug\pri.resfiles
+C:\Temp\GitCalculator\obj\x64\Debug\pri.resfiles.intermediate
+C:\Temp\GitCalculator\obj\x64\Debug\qualifiers.txt
+C:\Temp\GitCalculator\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Temp\GitCalculator\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Temp\GitCalculator\obj\x64\Debug\ProjectArchitectures.txt
+C:\Temp\GitCalculator\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636884968160000000.json
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\bin\x64\Debug\App.xbf
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\bin\x64\Debug\Controls\NumberButtonControl.xbf
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\bin\x64\Debug\Resources\NumberButtonControl.Resources.xbf
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\bin\x64\Debug\Controls\OperatorButtonControl.xbf
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\bin\x64\Debug\MainPage.xbf
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\bin\x64\Debug\Resources\OperatorButtonControl.Resources.xbf
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\bin\x64\Debug\Resources\Resources.xbf
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\bin\x64\Debug\Calculator.xr.xml
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\bin\x64\Debug\Calculator.exe
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\bin\x64\Debug\Calculator.pdb
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\bin\x64\Debug\resources.pri
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\bin\x64\Debug\AppxManifest.xml
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\bin\x64\Debug\Core\AppxManifest.xml
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\bin\x64\Debug\Core\Calculator.exe
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\bin\x64\Debug\Calculator.build.appxrecipe
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\bin\x64\Debug\System.Runtime.dll
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\obj\x64\Debug\App.g.i.cs
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\obj\x64\Debug\App.g.cs
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\obj\x64\Debug\Controls\NumberButtonControl.g.i.cs
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\obj\x64\Debug\Controls\NumberButtonControl.g.cs
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\obj\x64\Debug\Controls\OperatorButtonControl.g.i.cs
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\obj\x64\Debug\Controls\OperatorButtonControl.g.cs
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\obj\x64\Debug\MainPage.g.i.cs
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\obj\x64\Debug\MainPage.g.cs
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\obj\x64\Debug\App.xaml
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\obj\x64\Debug\Controls\NumberButtonControl.xaml
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\obj\x64\Debug\Resources\NumberButtonControl.Resources.xaml
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\obj\x64\Debug\Controls\OperatorButtonControl.xaml
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\obj\x64\Debug\MainPage.xaml
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\obj\x64\Debug\Resources\OperatorButtonControl.Resources.xaml
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\obj\x64\Debug\Resources\Resources.xaml
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\obj\x64\Debug\App.xbf
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\obj\x64\Debug\Controls\NumberButtonControl.xbf
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\obj\x64\Debug\Resources\NumberButtonControl.Resources.xbf
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\obj\x64\Debug\Controls\OperatorButtonControl.xbf
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\obj\x64\Debug\MainPage.xbf
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\obj\x64\Debug\Resources\OperatorButtonControl.Resources.xbf
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\obj\x64\Debug\Resources\Resources.xbf
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\obj\x64\Debug\XamlSaveStateFile.xml
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\obj\x64\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\obj\x64\Debug\Calculator.csproj.CopyComplete
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\obj\x64\Debug\Calculator.exe
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\obj\x64\Debug\Calculator.pdb
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\obj\x64\Debug\ResourceHandlingTask.state
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\obj\x64\Debug\priconfig.xml
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\obj\x64\Debug\priconfig.xml.intermediate
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\obj\x64\Debug\unfiltered.layout.resfiles
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\obj\x64\Debug\filtered.layout.resfiles
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\obj\x64\Debug\excluded.layout.resfiles
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\obj\x64\Debug\resources.resfiles
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\obj\x64\Debug\resources.resfiles.intermediate
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\obj\x64\Debug\pri.resfiles
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\obj\x64\Debug\pri.resfiles.intermediate
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\obj\x64\Debug\qualifiers.txt
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\obj\x64\Debug\qualifiers.txt.intermediate
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\obj\x64\Debug\ProjectArchitectures.txt
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Assessor\GitCalculator_Correct\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636884932160000000.json
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\bin\x64\Debug\App.xbf
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\bin\x64\Debug\Controls\NumberButtonControl.xbf
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\bin\x64\Debug\Resources\NumberButtonControl.Resources.xbf
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\bin\x64\Debug\Controls\OperatorButtonControl.xbf
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\bin\x64\Debug\MainPage.xbf
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\bin\x64\Debug\Resources\OperatorButtonControl.Resources.xbf
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\bin\x64\Debug\Resources\Resources.xbf
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\bin\x64\Debug\Calculator.xr.xml
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\bin\x64\Debug\Calculator.exe
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\bin\x64\Debug\Calculator.pdb
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\bin\x64\Debug\resources.pri
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\bin\x64\Debug\AppxManifest.xml
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\bin\x64\Debug\Core\AppxManifest.xml
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\bin\x64\Debug\Core\Calculator.exe
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\bin\x64\Debug\Calculator.build.appxrecipe
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\bin\x64\Debug\System.Runtime.dll
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\obj\x64\Debug\Calculator.csprojAssemblyReference.cache
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\obj\x64\Debug\App.g.i.cs
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\obj\x64\Debug\App.g.cs
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\obj\x64\Debug\Controls\NumberButtonControl.g.i.cs
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\obj\x64\Debug\Controls\NumberButtonControl.g.cs
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\obj\x64\Debug\Controls\OperatorButtonControl.g.i.cs
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\obj\x64\Debug\Controls\OperatorButtonControl.g.cs
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\obj\x64\Debug\MainPage.g.i.cs
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\obj\x64\Debug\MainPage.g.cs
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\obj\x64\Debug\App.xaml
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\obj\x64\Debug\Controls\NumberButtonControl.xaml
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\obj\x64\Debug\Resources\NumberButtonControl.Resources.xaml
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\obj\x64\Debug\Controls\OperatorButtonControl.xaml
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\obj\x64\Debug\MainPage.xaml
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\obj\x64\Debug\Resources\OperatorButtonControl.Resources.xaml
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\obj\x64\Debug\Resources\Resources.xaml
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\obj\x64\Debug\App.xbf
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\obj\x64\Debug\Controls\NumberButtonControl.xbf
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\obj\x64\Debug\Resources\NumberButtonControl.Resources.xbf
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\obj\x64\Debug\Controls\OperatorButtonControl.xbf
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\obj\x64\Debug\MainPage.xbf
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\obj\x64\Debug\Resources\OperatorButtonControl.Resources.xbf
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\obj\x64\Debug\Resources\Resources.xbf
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\obj\x64\Debug\XamlSaveStateFile.xml
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\obj\x64\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\obj\x64\Debug\Calculator.csproj.CopyComplete
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\obj\x64\Debug\Calculator.exe
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\obj\x64\Debug\Calculator.pdb
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\obj\x64\Debug\ResourceHandlingTask.state
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\obj\x64\Debug\priconfig.xml
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\obj\x64\Debug\priconfig.xml.intermediate
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\obj\x64\Debug\unfiltered.layout.resfiles
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\obj\x64\Debug\filtered.layout.resfiles
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\obj\x64\Debug\excluded.layout.resfiles
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\obj\x64\Debug\resources.resfiles
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\obj\x64\Debug\resources.resfiles.intermediate
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\obj\x64\Debug\pri.resfiles
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\obj\x64\Debug\pri.resfiles.intermediate
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\obj\x64\Debug\qualifiers.txt
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\obj\x64\Debug\qualifiers.txt.intermediate
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\obj\x64\Debug\ProjectArchitectures.txt
+C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICIICT449 - ASDS - Assignment (Git Commands)\GitCalculator\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636884932160000000.json
+D:\CalculatorRepos\GitCalculator\bin\x64\Debug\App.xbf
+D:\CalculatorRepos\GitCalculator\bin\x64\Debug\Controls\NumberButtonControl.xbf
+D:\CalculatorRepos\GitCalculator\bin\x64\Debug\Resources\NumberButtonControl.Resources.xbf
+D:\CalculatorRepos\GitCalculator\bin\x64\Debug\Controls\OperatorButtonControl.xbf
+D:\CalculatorRepos\GitCalculator\bin\x64\Debug\MainPage.xbf
+D:\CalculatorRepos\GitCalculator\bin\x64\Debug\Resources\OperatorButtonControl.Resources.xbf
+D:\CalculatorRepos\GitCalculator\bin\x64\Debug\Resources\Resources.xbf
+D:\CalculatorRepos\GitCalculator\bin\x64\Debug\Calculator.xr.xml
+D:\CalculatorRepos\GitCalculator\bin\x64\Debug\Calculator.exe
+D:\CalculatorRepos\GitCalculator\bin\x64\Debug\Calculator.pdb
+D:\CalculatorRepos\GitCalculator\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\CalculatorRepos\GitCalculator\obj\x64\Debug\Calculator.csproj.AssemblyReference.cache
+D:\CalculatorRepos\GitCalculator\obj\x64\Debug\App.g.i.cs
+D:\CalculatorRepos\GitCalculator\obj\x64\Debug\App.g.cs
+D:\CalculatorRepos\GitCalculator\obj\x64\Debug\Controls\NumberButtonControl.g.i.cs
+D:\CalculatorRepos\GitCalculator\obj\x64\Debug\Controls\NumberButtonControl.g.cs
+D:\CalculatorRepos\GitCalculator\obj\x64\Debug\Controls\OperatorButtonControl.g.i.cs
+D:\CalculatorRepos\GitCalculator\obj\x64\Debug\Controls\OperatorButtonControl.g.cs
+D:\CalculatorRepos\GitCalculator\obj\x64\Debug\MainPage.g.i.cs
+D:\CalculatorRepos\GitCalculator\obj\x64\Debug\MainPage.g.cs
+D:\CalculatorRepos\GitCalculator\obj\x64\Debug\XamlTypeInfo.g.cs
+D:\CalculatorRepos\GitCalculator\obj\x64\Debug\App.xaml
+D:\CalculatorRepos\GitCalculator\obj\x64\Debug\Controls\NumberButtonControl.xaml
+D:\CalculatorRepos\GitCalculator\obj\x64\Debug\Resources\NumberButtonControl.Resources.xaml
+D:\CalculatorRepos\GitCalculator\obj\x64\Debug\Controls\OperatorButtonControl.xaml
+D:\CalculatorRepos\GitCalculator\obj\x64\Debug\MainPage.xaml
+D:\CalculatorRepos\GitCalculator\obj\x64\Debug\Resources\OperatorButtonControl.Resources.xaml
+D:\CalculatorRepos\GitCalculator\obj\x64\Debug\Resources\Resources.xaml
+D:\CalculatorRepos\GitCalculator\obj\x64\Debug\App.xbf
+D:\CalculatorRepos\GitCalculator\obj\x64\Debug\Controls\NumberButtonControl.xbf
+D:\CalculatorRepos\GitCalculator\obj\x64\Debug\Resources\NumberButtonControl.Resources.xbf
+D:\CalculatorRepos\GitCalculator\obj\x64\Debug\Controls\OperatorButtonControl.xbf
+D:\CalculatorRepos\GitCalculator\obj\x64\Debug\MainPage.xbf
+D:\CalculatorRepos\GitCalculator\obj\x64\Debug\Resources\OperatorButtonControl.Resources.xbf
+D:\CalculatorRepos\GitCalculator\obj\x64\Debug\Resources\Resources.xbf
+D:\CalculatorRepos\GitCalculator\obj\x64\Debug\XamlSaveStateFile.xml
+D:\CalculatorRepos\GitCalculator\obj\x64\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\CalculatorRepos\GitCalculator\obj\x64\Debug\Calculator.csproj.Up2Date
+D:\CalculatorRepos\GitCalculator\obj\x64\Debug\Calculator.exe
+D:\CalculatorRepos\GitCalculator\obj\x64\Debug\Calculator.pdb
+D:\CalculatorRepos\GitCalculator\bin\x64\Debug\resources.pri
+D:\CalculatorRepos\GitCalculator\bin\x64\Debug\AppxManifest.xml
+D:\CalculatorRepos\GitCalculator\bin\x64\Debug\Core\AppxManifest.xml
+D:\CalculatorRepos\GitCalculator\bin\x64\Debug\Core\Calculator.exe
+D:\CalculatorRepos\GitCalculator\bin\x64\Debug\Calculator.build.appxrecipe
+D:\CalculatorRepos\GitCalculator\bin\x64\Debug\System.Runtime.dll
+D:\CalculatorRepos\GitCalculator\obj\x64\Debug\ResourceHandlingTask.state
+D:\CalculatorRepos\GitCalculator\obj\x64\Debug\priconfig.xml
+D:\CalculatorRepos\GitCalculator\obj\x64\Debug\priconfig.xml.intermediate
+D:\CalculatorRepos\GitCalculator\obj\x64\Debug\unfiltered.layout.resfiles
+D:\CalculatorRepos\GitCalculator\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+D:\CalculatorRepos\GitCalculator\obj\x64\Debug\filtered.layout.resfiles
+D:\CalculatorRepos\GitCalculator\obj\x64\Debug\filtered.layout.resfiles.intermediate
+D:\CalculatorRepos\GitCalculator\obj\x64\Debug\excluded.layout.resfiles
+D:\CalculatorRepos\GitCalculator\obj\x64\Debug\excluded.layout.resfiles.intermediate
+D:\CalculatorRepos\GitCalculator\obj\x64\Debug\resources.resfiles
+D:\CalculatorRepos\GitCalculator\obj\x64\Debug\resources.resfiles.intermediate
+D:\CalculatorRepos\GitCalculator\obj\x64\Debug\pri.resfiles
+D:\CalculatorRepos\GitCalculator\obj\x64\Debug\pri.resfiles.intermediate
+D:\CalculatorRepos\GitCalculator\obj\x64\Debug\qualifiers.txt
+D:\CalculatorRepos\GitCalculator\obj\x64\Debug\qualifiers.txt.intermediate
+D:\CalculatorRepos\GitCalculator\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\CalculatorRepos\GitCalculator\obj\x64\Debug\ProjectArchitectures.txt
+D:\CalculatorRepos\GitCalculator\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636884932160000000.json
+D:\CalculatorRepos\GitCalculator\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424473200000000.json
+C:\Tafe250110\Tafe250110\GitCalculator\obj\x64\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Tafe250110\Tafe250110\GitCalculator\obj\x64\Debug\App.g.i.cs
+C:\Tafe250110\Tafe250110\GitCalculator\obj\x64\Debug\App.g.cs
+C:\Tafe250110\Tafe250110\GitCalculator\obj\x64\Debug\Controls\NumberButtonControl.g.i.cs
+C:\Tafe250110\Tafe250110\GitCalculator\obj\x64\Debug\Controls\NumberButtonControl.g.cs
+C:\Tafe250110\Tafe250110\GitCalculator\obj\x64\Debug\Controls\OperatorButtonControl.g.i.cs
+C:\Tafe250110\Tafe250110\GitCalculator\obj\x64\Debug\Controls\OperatorButtonControl.g.cs
+C:\Tafe250110\Tafe250110\GitCalculator\obj\x64\Debug\MathCalculator.g.i.cs
+C:\Tafe250110\Tafe250110\GitCalculator\obj\x64\Debug\MathCalculator.g.cs
+C:\Tafe250110\Tafe250110\GitCalculator\obj\x64\Debug\MainMenu.g.i.cs
+C:\Tafe250110\Tafe250110\GitCalculator\obj\x64\Debug\MainMenu.g.cs
+C:\Tafe250110\Tafe250110\GitCalculator\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Tafe250110\Tafe250110\GitCalculator\obj\x64\Debug\App.xaml
+C:\Tafe250110\Tafe250110\GitCalculator\obj\x64\Debug\MainMenu.xaml
+C:\Tafe250110\Tafe250110\GitCalculator\obj\x64\Debug\Controls\NumberButtonControl.xaml
+C:\Tafe250110\Tafe250110\GitCalculator\obj\x64\Debug\Resources\NumberButtonControl.Resources.xaml
+C:\Tafe250110\Tafe250110\GitCalculator\obj\x64\Debug\Controls\OperatorButtonControl.xaml
+C:\Tafe250110\Tafe250110\GitCalculator\obj\x64\Debug\MathCalculator.xaml
+C:\Tafe250110\Tafe250110\GitCalculator\obj\x64\Debug\Resources\OperatorButtonControl.Resources.xaml
+C:\Tafe250110\Tafe250110\GitCalculator\obj\x64\Debug\Resources\Resources.xaml
+C:\Tafe250110\Tafe250110\GitCalculator\obj\x64\Debug\App.xbf
+C:\Tafe250110\Tafe250110\GitCalculator\obj\x64\Debug\MainMenu.xbf
+C:\Tafe250110\Tafe250110\GitCalculator\obj\x64\Debug\Controls\NumberButtonControl.xbf
+C:\Tafe250110\Tafe250110\GitCalculator\obj\x64\Debug\Resources\NumberButtonControl.Resources.xbf
+C:\Tafe250110\Tafe250110\GitCalculator\obj\x64\Debug\Controls\OperatorButtonControl.xbf
+C:\Tafe250110\Tafe250110\GitCalculator\obj\x64\Debug\MathCalculator.xbf
+C:\Tafe250110\Tafe250110\GitCalculator\obj\x64\Debug\Resources\OperatorButtonControl.Resources.xbf
+C:\Tafe250110\Tafe250110\GitCalculator\obj\x64\Debug\Resources\Resources.xbf
+C:\Tafe250110\Tafe250110\GitCalculator\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Tafe250110\Tafe250110\GitCalculator\obj\x64\Debug\Calculator.exe
+C:\Tafe250110\Tafe250110\GitCalculator\obj\x64\Debug\Calculator.pdb
+C:\Tafe250110\Tafe250110\GitCalculator\bin\x64\Debug\App.xbf
+C:\Tafe250110\Tafe250110\GitCalculator\bin\x64\Debug\MainMenu.xbf
+C:\Tafe250110\Tafe250110\GitCalculator\bin\x64\Debug\Controls\NumberButtonControl.xbf
+C:\Tafe250110\Tafe250110\GitCalculator\bin\x64\Debug\Resources\NumberButtonControl.Resources.xbf
+C:\Tafe250110\Tafe250110\GitCalculator\bin\x64\Debug\Controls\OperatorButtonControl.xbf
+C:\Tafe250110\Tafe250110\GitCalculator\bin\x64\Debug\MathCalculator.xbf
+C:\Tafe250110\Tafe250110\GitCalculator\bin\x64\Debug\Resources\OperatorButtonControl.Resources.xbf
+C:\Tafe250110\Tafe250110\GitCalculator\bin\x64\Debug\Resources\Resources.xbf
+C:\Tafe250110\Tafe250110\GitCalculator\bin\x64\Debug\Calculator.xr.xml
+C:\Tafe250110\Tafe250110\GitCalculator\bin\x64\Debug\Calculator.exe
+C:\Tafe250110\Tafe250110\GitCalculator\bin\x64\Debug\Calculator.pdb
+C:\Tafe250110\Tafe250110\GitCalculator\bin\x64\Debug\resources.pri
+C:\Tafe250110\Tafe250110\GitCalculator\bin\x64\Debug\AppxManifest.xml
+C:\Tafe250110\Tafe250110\GitCalculator\bin\x64\Debug\Core\AppxManifest.xml
+C:\Tafe250110\Tafe250110\GitCalculator\bin\x64\Debug\Core\Calculator.exe
+C:\Tafe250110\Tafe250110\GitCalculator\bin\x64\Debug\Calculator.build.appxrecipe
+C:\Tafe250110\Tafe250110\GitCalculator\bin\x64\Debug\System.Runtime.dll
+C:\Tafe250110\Tafe250110\GitCalculator\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Tafe250110\Tafe250110\GitCalculator\obj\x64\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Tafe250110\Tafe250110\GitCalculator\obj\x64\Debug\Calculator.csproj.Up2Date
+C:\Tafe250110\Tafe250110\GitCalculator\obj\x64\Debug\ResourceHandlingTask.state
+C:\Tafe250110\Tafe250110\GitCalculator\obj\x64\Debug\priconfig.xml
+C:\Tafe250110\Tafe250110\GitCalculator\obj\x64\Debug\priconfig.xml.intermediate
+C:\Tafe250110\Tafe250110\GitCalculator\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Tafe250110\Tafe250110\GitCalculator\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Tafe250110\Tafe250110\GitCalculator\obj\x64\Debug\filtered.layout.resfiles
+C:\Tafe250110\Tafe250110\GitCalculator\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Tafe250110\Tafe250110\GitCalculator\obj\x64\Debug\excluded.layout.resfiles
+C:\Tafe250110\Tafe250110\GitCalculator\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Tafe250110\Tafe250110\GitCalculator\obj\x64\Debug\resources.resfiles
+C:\Tafe250110\Tafe250110\GitCalculator\obj\x64\Debug\resources.resfiles.intermediate
+C:\Tafe250110\Tafe250110\GitCalculator\obj\x64\Debug\pri.resfiles
+C:\Tafe250110\Tafe250110\GitCalculator\obj\x64\Debug\pri.resfiles.intermediate
+C:\Tafe250110\Tafe250110\GitCalculator\obj\x64\Debug\qualifiers.txt
+C:\Tafe250110\Tafe250110\GitCalculator\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Tafe250110\Tafe250110\GitCalculator\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Tafe250110\Tafe250110\GitCalculator\obj\x64\Debug\ProjectArchitectures.txt
+C:\Tafe250110\Tafe250110\GitCalculator\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424473200000000.json
+C:\Tafe250110\Tafe250110\GitCalculator\obj\x64\Debug\MortgageCalculator.g.i.cs
+C:\Tafe250110\Tafe250110\GitCalculator\obj\x64\Debug\MortgageCalculator.g.cs
+C:\Tafe250110\Tafe250110\GitCalculator\obj\x64\Debug\MortgageCalculator.xaml
+C:\Tafe250110\Tafe250110\GitCalculator\obj\x64\Debug\MortgageCalculator.xbf
+C:\Tafe250110\Tafe250110\GitCalculator\bin\x64\Debug\BlankPage1.xbf
+C:\Tafe250110\Tafe250110\GitCalculator\bin\x64\Debug\MortgageCalculator.xbf
+C:\Tafe250110\Tafe250110\GitCalculator\obj\x64\Debug\BlankPage1.g.i.cs
+C:\Tafe250110\Tafe250110\GitCalculator\obj\x64\Debug\BlankPage1.g.cs
+C:\Tafe250110\Tafe250110\GitCalculator\obj\x64\Debug\BlankPage1.xaml
+C:\Tafe250110\Tafe250110\GitCalculator\obj\x64\Debug\BlankPage1.xbf

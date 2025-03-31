@@ -47,10 +47,14 @@ namespace Calculator
 		{
 			Application.Current.Equals(new MainMenu());
 		}
+<<<<<<< HEAD
 
 		private void BackButton_Click(object sender, RoutedEventArgs e)
 		{
 			Application.Current.Exit();
         }
     }
+=======
+	}
+>>>>>>> Release
 }
